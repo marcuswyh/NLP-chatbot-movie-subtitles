@@ -3,7 +3,7 @@ Implementation of a chatbot that is trained with movie subtitles. Used bag of wo
 
 Sample Output
 =============
-HUMAN ++++ what do you like?
+HUMAN ++++ what do you like?<br>
 BOT ++++ I love ice-cream, but i can't eat so i want to be a human in the future.
 
 HUMAN ++++ then what do you hate?
